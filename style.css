@@ -5,6 +5,10 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
 }
 
+body {
+    background-color: #ecfdf5;
+}
+
 .nav-header {
     background-color: #6ee7b7;
     padding: .8rem;
@@ -60,6 +64,7 @@
 .hidden {
     display: none;
 }
+
 .centerLinks li {
     transition: 400ms ease-in;
     list-style: none;
